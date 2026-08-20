@@ -13,4 +13,4 @@ https://turan-edu.uz/media/books/2024/05/28/1660642748.pdf
 - Chapter 8 : Suleyman 
 - Chapter 9 : Kifayat
 - Chapter 10 : Roza
-- Chapter 11 : FREE
+- Chapter 11 : Susan
