@@ -2,9 +2,6 @@
 
 **A collaborative Azerbaijani translation project of *Linear Algebra and Optimization for Machine Learning*.**
 
-🔗 **Original book:** https://turan-edu.uz/media/books/2024/05/28/1660642748.pdf
-
-
 ## Chapters & Contributors
 
 | Chapter                      | Translator |
@@ -21,7 +18,7 @@
 | Chapter 10                   | Roza       |
 | Chapter 11                   | Susan      |
 
-## 🎯 Project Goals
+## Project Goals
 
 The main goal of this project is to increase the availability of **high-quality, accessible technical resources in Azerbaijani** for students, researchers, developers, and anyone interested in Machine Learning and its mathematical foundations.
 
@@ -36,7 +33,7 @@ Through this project, we aim to:
 
 ## Contributors
 
-A huge thank you to everyone who contributed their time and effort to this collaborative translation project. ❤️
+A huge thank you to everyone who contributed their time and effort to this collaborative translation project.
 
 ## Disclaimer
 
