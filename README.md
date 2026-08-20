@@ -1,4 +1,4 @@
-# Linear Algebra & Optimization for Machine Learning — Azerbaijani Translation
+# Linear Algebra & Optimization for Machine Learning (Azerbaijani Translation)
 
 **A collaborative Azerbaijani translation project of *Linear Algebra and Optimization for Machine Learning*.**
 
