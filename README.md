@@ -9,13 +9,13 @@
 | Chapter 1                    | Sitara     |
 | Chapter 2                    | Nigar      |
 | Chapter 3                    | Sevinj     |
-| [Chapter 4](./Chapter_4.pdf) | **Nargiz** |
+| [Chapter 4](./Chapter_4.pdf) | [**Nargiz**](https://www.linkedin.com/in/nargiz-ismay%C4%B1ll%C4%B1/) |
 | Chapter 5                    | Gunel      |
 | Chapter 6                    | Khadija    |
-| [Chapter 7](./Chapter_7.pdf) | **Lala**   |
-| [Chapter 8](./Chapter_8.pdf) | **Suleyman**|
+| [Chapter 7](./Chapter_7.pdf) |[**Lala**](https://www.linkedin.com/in/lala-ibadullayeva/)   |
+| [Chapter 8](./Chapter_8.pdf) | [**Suleyman**](https://www.linkedin.com/in/suleiman-hajizadeh-609732213/?isSelfProfile=false)|
 | Chapter 9                    | Kifayat    |
-| [Chapter 10](./Chapter_10.pdf)| **Roza**  |
+| [Chapter 10](./Chapter_10.pdf)|[**Roza**](https://www.linkedin.com/in/roza-gasimova-095857326/)|
 | Chapter 11                   | Susan      |
 
 ## Project Goals
