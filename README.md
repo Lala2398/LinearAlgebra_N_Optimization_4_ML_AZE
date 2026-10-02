@@ -4,19 +4,19 @@
 
 ## Chapters & Contributors
 
-| Chapter                      | Translator |
-| ---------------------------- | ---------- |
-| Chapter 1                    | Sitara     |
-| Chapter 2                    | Nigar      |
-| Chapter 3                    | Sevinj     |
-| [Chapter 4](./Chapter_4.pdf) | [**Nargiz**](https://www.linkedin.com/in/nargiz-ismay%C4%B1ll%C4%B1/) |
-| Chapter 5                    | Gunel      |
-| Chapter 6                    | Khadija    |
-| [Chapter 7](./Chapter_7.pdf) |[**Lala**](https://www.linkedin.com/in/lala-ibadullayeva/)   |
-| [Chapter 8](./Chapter_8.pdf) | [**Suleyman**](https://www.linkedin.com/in/suleiman-hajizadeh-609732213/?isSelfProfile=false)|
-| Chapter 9                    | Kifayat    |
-| [Chapter 10](./Chapter_10.pdf)|[**Roza**](https://www.linkedin.com/in/roza-gasimova-095857326/)|
-| Chapter 11                   | Susan      |
+| Chapter | Translator |
+| --- | --- |
+| Chapter 1 | Sitara |
+| Chapter 2 | Nigar |
+| Chapter 3 | Sevinj |
+| [Chapter 4](https://github.com/Lala2398/LinearAlgebra_N_Optimization_4_ML_AZE/blob/main/Chapter_4) | [**Nargiz**](https://www.linkedin.com/in/nargiz-ismay%C4%B1ll%C4%B1/) |
+| Chapter 5 | Gunel |
+| Chapter 6 | Khadija |
+| [Chapter 7](https://github.com/Lala2398/LinearAlgebra_N_Optimization_4_ML_AZE/blob/main/Chapter_7.pdf) | [**Lala**](https://www.linkedin.com/in/lala-ibadullayeva/) |
+| [Chapter 8](https://github.com/Lala2398/LinearAlgebra_N_Optimization_4_ML_AZE/blob/main/Chapter_8.pdf) | [**Suleyman**](https://www.linkedin.com/in/suleiman-hajizadeh-609732213/?isSelfProfile=false) |
+| Chapter 9 | Kifayat |
+| [Chapter 10](https://github.com/Lala2398/LinearAlgebra_N_Optimization_4_ML_AZE/blob/main/Chapter_10.pdf) | [**Roza**](https://www.linkedin.com/in/roza-gasimova-095857326/) |
+| Chapter 11 | Susan |
 
 ## Project Goals
 
