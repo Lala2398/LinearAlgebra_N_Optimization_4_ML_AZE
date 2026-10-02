@@ -9,13 +9,13 @@
 | Chapter 1                    | Sitara     |
 | Chapter 2                    | Nigar      |
 | Chapter 3                    | Sevinj     |
-| Chapter 4                    | Nargiz     |
+| [Chapter 4](./Chapter_4.pdf) | **Nargiz** |
 | Chapter 5                    | Gunel      |
 | Chapter 6                    | Khadija    |
 | [Chapter 7](./Chapter_7.pdf) | **Lala**   |
-| Chapter 8                    | Suleyman   |
+| [Chapter 8](./Chapter_8.pdf) | **Suleyman**|
 | Chapter 9                    | Kifayat    |
-| Chapter 10                   | Roza       |
+| [Chapter 10](./Chapter_10.pdf)| **Roza**  |
 | Chapter 11                   | Susan      |
 
 ## Project Goals
