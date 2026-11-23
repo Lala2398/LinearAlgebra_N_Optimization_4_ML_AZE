@@ -15,7 +15,7 @@
 | [Chapter 7](https://github.com/Lala2398/LinearAlgebra_N_Optimization_4_ML_AZE/blob/main/Chapter_7.pdf) | [**Lala**](https://www.linkedin.com/in/lala-ibadullayeva/) |
 | [Chapter 8](https://github.com/Lala2398/LinearAlgebra_N_Optimization_4_ML_AZE/blob/main/Chapter_8.pdf) | [**Suleyman**](https://www.linkedin.com/in/suleiman-hajizadeh-609732213/?isSelfProfile=false) |
 | Chapter 9 | Kifayat |
-| [Chapter 10] | [**Roza**](https://www.linkedin.com/in/roza-gasimova-095857326/) |
+| [Chapter 10](https://github.com/Lala2398/LinearAlgebra_N_Optimization_4_ML_AZE/blob/main/Chapter%2010.pdf) | [**Roza**](https://www.linkedin.com/in/roza-gasimova-095857326/) |
 | Chapter 11 | Susan |
 
 ## Project Goals
